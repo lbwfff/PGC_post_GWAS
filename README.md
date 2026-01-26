@@ -20,10 +20,10 @@ Includes the RMP list and the sources of GWAS summary statistics utilized in thi
 The heritability estimation is implemented by [GCTB_sbayes.sh](GCTB_sbayes.sh), while [sbayes.R](sbayes.R) performs the aggregation and visualization of SNP-level estimates.
 
 ## SMR
-[SMR](https://yanglab.westlake.edu.cn/software/smr/#Overview) analysis are implemented by [SMR.sh](./SMR.sh), with visualization performed by [SMR.r](./SMR.r).
+[SMR](https://yanglab.westlake.edu.cn/software/smr/#Overview) analysis are implemented by [SMR.sh](./SMR.sh), with visualization performed by [SMR.r](./SMR.r).  Both cis-eQTL and cis-sQTL summary data are sourced from [BrainMeta v2](https://yanglab.westlake.edu.cn/software/smr/#sQTLsummarydata).
 
 ## FUSION
-[FUSION-based TWAS](http://gusevlab.org/projects/fusion/) analysis are implemented by [FUSION.sh](./FUSION.sh), with visualization performed by [FUSION.r](./FUSION.r).
+[FUSION-based TWAS](http://gusevlab.org/projects/fusion/) analysis are implemented by [FUSION.sh](./FUSION.sh), with visualization performed by [FUSION.r](./FUSION.r). The precomputed weights are provided by FUSION.
 
 ## TSMR & coloc
 TwoSample-MR and gene colocalization analysis are based on the customized code [MR_and_coloc.R](MR_and_coloc.R), which primarily implements functionality by calling the [TwoSampleMR](https://github.com/MRCIEU/TwoSampleMR) and [coloc](https://github.com/chr1swallace/coloc) packages. [TSMR_and_coloc.R](TSMR_and_coloc.R) applies this customized code to the project.
