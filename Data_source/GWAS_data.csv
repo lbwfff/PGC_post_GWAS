@@ -1,0 +1,30 @@
+﻿Disease,ancestry,Cases,Controls,sample size,MR analysis,Data scoure,paper
+Postpartum depression,European,"17,339","53,426","70,765",Y,https://figshare.com/articles/dataset/ppd2023/24204843,https://pubmed.ncbi.nlm.nih.gov/37849304/
+Alzheimer’s Disease,European,"86,531","676,386","762,917",Y,https://vu.data.surfsara.nl/index.php/s/jVlyt1m9Bb2mAki,https://pubmed.ncbi.nlm.nih.gov/34493870/
+Attention Deficit Hyperactivity Disorder,European,"38,691","186,843","225,534",Y,https://figshare.com/articles/dataset/adhd2022/22564390,https://pubmed.ncbi.nlm.nih.gov/36702997/
+Schizophrenia,European,"53,386","77,258","130,644",Y,https://figshare.com/articles/dataset/scz2022/19426775?file=34517828,https://pubmed.ncbi.nlm.nih.gov/35396580/
+Panic disorder,European,2248,7992,"10,240",Y,https://figshare.com/articles/dataset/panic2019/16602218,https://pubmed.ncbi.nlm.nih.gov/31712720/
+Post Traumatic Stress Disorder,European,9354,"25,175","34,529",Y,https://figshare.com/articles/dataset/ptsd2019/14672133,https://pubmed.ncbi.nlm.nih.gov/31594949/
+Bipolar Disorder,European,"25,060","449,978","475,038",Y,https://figshare.com/articles/dataset/PGC3_bipolar_disorder_GWAS_summary_statistics/14102594,https://pubmed.ncbi.nlm.nih.gov/34002096/
+Bipolar Disorder II,European,"6,781","364,075","370,856",Y,https://figshare.com/articles/dataset/PGC3_bipolar_disorder_GWAS_summary_statistics/14102594,https://pubmed.ncbi.nlm.nih.gov/34002096/
+hoarding symptoms,European,/,/,"27,651",Y,https://figshare.com/articles/dataset/hoarding2022/22177274,https://pubmed.ncbi.nlm.nih.gov/36379924/
+Anxiety Disorder,European,7016,"14,745","21,761",Y,https://figshare.com/articles/dataset/anx2016/14842689?file=28570809,https://pubmed.ncbi.nlm.nih.gov/26754954/
+Eating Disorders,European,"16,992","55,525","72,517",,https://figshare.com/articles/dataset/an2019/14671980?file=28169268,https://pubmed.ncbi.nlm.nih.gov/31308545/
+Autism Spectrum Disorder,European,"18,382","27,969","46,351",,https://figshare.com/articles/dataset/asd2019/14671989,https://pubmed.ncbi.nlm.nih.gov/30804558/
+Cannabis use disorder,European,17068,357219,"374,287",,https://figshare.com/articles/dataset/sud2020-cud/14842692,https://pubmed.ncbi.nlm.nih.gov/33096046
+Tourette syndrome,European,4819,9488,"14,307",,https://figshare.com/articles/dataset/ts2019/14672232,https://pubmed.ncbi.nlm.nih.gov/30818990/
+Alcohol dependence,European & African,"14,904","37,944","52,848",,https://figshare.com/articles/dataset/sud2018-alc/14672187,https://pubmed.ncbi.nlm.nih.gov/30482948/
+Obsessive-compulsive disorder,European,"2,688","7,037","9,725",,https://figshare.com/articles/dataset/ocd2018/14672103,https://pubmed.ncbi.nlm.nih.gov/28761083/
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,

@@ -1,0 +1,124 @@
+﻿Gene Symbol,RNA-modifying proteins,Modification,Effector,RNA,Subcellular,annotation,complex,source,Organism
+ADAR,Double-stranded RNA-specific adenosine deaminase,I,writer,mRNA,"cytosol,nucleus",ADAR1,,"MODOMICS,RNAME,Delaunay,S.2024",Homo sapiens
+ADARB1,Double-stranded RNA-specific editase 1,I,writer,mRNA,"cytosol,nucleus",ADAR2,,"MODOMICS,RNAME,Delaunay,S.2024",Homo sapiens
+ADAT1,Adenosine Deaminase TRNA Specific 1 ,I,writer,tRNA,nucleus,,,MODOMICS,Homo sapiens
+ADAT2,tRNA-specific adenosine deaminase 2,I,writer,tRNA,nucleus,,,"MODOMICS,RNAME,Delaunay,S.2024",Homo sapiens
+ADAT3,"HCG22695, isoform CRA_a",I,writer,tRNA,nucleus,,,"MODOMICS,RNAME,Delaunay,S.2024",Homo sapiens
+ALKBH1,Nucleic acid dioxygenase ALKBH1,"m1A,m3C",eraser,"tRNA,mRNA","nucleus,mitochondrion","removing tRNA N(1)-methyladenine; In mitochondrion, form tRNA f(5)c, Demethylates mRNAs containing N(3)-methylcytidine modification",,"MODOMICS,RNAME,Delaunay,S.2024",Homo sapiens
+ALKBH3,Alpha-ketoglutarate-dependent dioxygenase alkB homolog 3,"m1A,m3C",eraser,"tRNA,mRNA","cytosol,nucleus,mitochondrion",,,"MODOMICS,RNAME,Delaunay,S.2024",Homo sapiens
+ALKBH5,RNA demethylase ALKBH5,m6A,eraser,mRNA,"cytosol,mitochondrion",,,"MODOMICS,RNAME",Homo sapiens
+ALKBH8,"AlkB Homolog 8, TRNA Methyltransferase","cm5U,mcm5U,mcm5s2U,ncm5U",writer,tRNA,"cytosol,nucleus",,,"MODOMICS,Delaunay,S.2024",Homo sapiens
+BCDIN3D,BCDIN3 Domain Containing RNA Methyltransferase,Cap,writer,"tRNA,miRNA","cytosol,nucleus",5'-monomethylphosphate cap,,MODOMICS,Homo sapiens
+BUD23,Probable 18S rRNA (guanine-N(7))-methyltransferase,m7G,writer,rRNA,nucleus,,,"MODOMICS,RNAME",Homo sapiens
+CBLL1,Cbl Proto-Oncogene Like 1,m6A,writer,mRNA,"cytosol,nucleus",,WMM complex,"RNAME,Delaunay,S.2024",Homo sapiens
+CDKAL1,CDKAL1 Threonylcarbamoyladenosine TRNA Methylthiotransferase,ms2t6A,writer,tRNA,endoplasmic reticulum,,,MODOMICS,Homo sapiens
+CMTR1,Cap Methyltransferase 1,2′-O-Me,writer,"mRNA,snRNA",nucleus,cap,,"MODOMICS,Delaunay,S.2024",Homo sapiens
+CMTR2,Cap Methyltransferase 2,2′-O-Me,writer,"mRNA,snRNA",nucleus,cap,,"MODOMICS,Delaunay,S.2024",Homo sapiens
+CTU1,Cytosolic Thiouridylase Subunit 1,"cm5U,mcm5U,mcm5s2U,ncm5U",writer,tRNA,cytosol,,,"MODOMICS,Delaunay,S.2024",Homo sapiens
+CTU2,Cytosolic Thiouridylase Subunit 2,"cm5U,mcm5U,mcm5s2U,ncm5U",writer,tRNA,cytosol,,,"Delaunay,S.2024",Homo sapiens
+DCP1A,mRNA-decapping enzyme 1A,Cap,eraser,mRNA,"cytosol,nucleus",remove m7G,,RNAME,Homo sapiens
+DCP1B,mRNA-decapping enzyme 1B,Cap,eraser,mRNA,"cytosol,nucleus",remove m7G,,RNAME,Homo sapiens
+DCP2,m7GpppN-mRNA hydrolase,Cap,eraser,mRNA,"cytosol,nucleus",remove m7G,,"MODOMICS,RNAME",Homo sapiens
+DCPS,"Decapping Enzyme, Scavenger",Cap,eraser,mRNA,"cytosol,nucleus",m⁷GpppN → m⁷GMP + 5′-P-oligoRNA,,MODOMICS,Homo sapiens
+DDX21,DExD-Box Helicase 21,2′-O-Me,writer,rRNA,"cytosol,nucleus",,,MODOMICS,Homo sapiens
+DIMT1,DIM1 RRNA Methyltransferase And Ribosome Maturation Factor,m⁶₂A,writer,rRNA,"cytosol,nucleus","on the 18S rRNA, two adjacent adenosines (A1781/A1782) are N(6)-dimethylated by Dim1 near the decoding site",,MODOMICS,Homo sapiens
+DKC1,H/ACA ribonucleoprotein complex subunit DKC1,Ψ,writer,rRNA,nucleus,,H/ACA small nucleolar ribonucleoprotein (H/ACA snoRNP) complex,"MODOMICS,RNAME,Delaunay,S.2024",Homo sapiens
+DTWD1,DTW Motif TRNA-Uridine Aminocarboxypropyltransferase 1,acp3U,writer,tRNA,nucleus,,,MODOMICS,Homo sapiens
+DTWD2,DTW Motif TRNA-Uridine Aminocarboxypropyltransferase 2,acp3U,writer,tRNA,nucleus,,,MODOMICS,Homo sapiens
+DUS2,Dihydrouridine Synthase 2,D,writer,tRNA,"cytosol,mitochondrion",Catalyzes the NADPH-dependent synthesis of dihydrouridine,,MODOMICS,Homo sapiens
+DXO,Decapping Exoribonuclease,Cap,eraser,mRNA,"cytosol,nucleus",Decapping enzyme for NAD-capped RNAs,,MODOMICS,Homo sapiens
+ELP1,Elongator Acetyltransferase Complex Subunit 1,"cm5U,mcm5U,mcm5s2U,ncm5U",writer,tRNA,"cytosol,nucleus",,Elongator Acetyltransferase Complex ,"MODOMICS,Delaunay,S.2024",Homo sapiens
+ELP2,Elongator Acetyltransferase Complex Subunit 2,"cm5U,mcm5U,mcm5s2U,ncm5U",writer,tRNA,"cytosol,nucleus",,Elongator Acetyltransferase Complex ,"Delaunay,S.2024",Homo sapiens
+ELP3,Elongator Acetyltransferase Complex Subunit 3,"cm5U,mcm5U,mcm5s2U,ncm5U",writer,tRNA,"cytosol,nucleus",,Elongator Acetyltransferase Complex ,"MODOMICS,Delaunay,S.2024",Homo sapiens
+ELP4,Elongator Acetyltransferase Complex Subunit 4,"cm5U,mcm5U,mcm5s2U,ncm5U",writer,tRNA,nucleus,,Elongator Acetyltransferase Complex ,"Delaunay,S.2024",Homo sapiens
+ELP5,Elongator Acetyltransferase Complex Subunit 5,"cm5U,mcm5U,mcm5s2U,ncm5U",writer,tRNA,"cytosol,nucleus",,Elongator Acetyltransferase Complex ,"Delaunay,S.2024",Homo sapiens
+ELP6,Elongator Acetyltransferase Complex Subunit 6,"cm5U,mcm5U,mcm5s2U,ncm5U",writer,tRNA,"cytosol,nucleus",,Elongator Acetyltransferase Complex ,"Delaunay,S.2024",Homo sapiens
+EMG1,EMG1 N1-Specific Pseudouridine Methyltransferase,m1acp3-Psi,writer,rRNA,nucleus,modified pseudouridine,,MODOMICS,Homo sapiens
+FBL,Fibrillarin,2′-O-Me,writer,rRNA,nucleus,,box C/D small nucleolar ribonucleoprotein (snoRNP) complexes,"MODOMICS,Delaunay,S.2024",Homo sapiens
+FBLL1,Fibrillarin Like 1,2′-O-Me,writer,"rRNA,mRNA",nucleus,,box C/D small nucleolar ribonucleoprotein (snoRNP) complexes,MODOMICS,Homo sapiens
+FTO,Alpha-ketoglutarate-dependent dioxygenase FTO,m6A,eraser,"mRNA,tRNA,snRNA","cytosol,nucleus",,,"MODOMICS,RNAME",Homo sapiens
+FTSJ1,FtsJ RNA 2''-O-Methyltransferase 1,2′-O-Me,writer,tRNA,"cytosol,nucleus",,,"MODOMICS,Delaunay,S.2024",Homo sapiens
+GAR1,GAR1 Ribonucleoprotein,Ψ,writer,rRNA,nucleus,,H/ACA small nucleolar ribonucleoprotein (H/ACA snoRNP) complex,"Delaunay,S.2024",Homo sapiens
+GON7,GON7 Subunit Of KEOPS Complex,t(6)A,writer,tRNA,"cytosol,nucleus",,EKC/KEOPS complex,MODOMICS,Homo sapiens
+GTPBP3,"GTP Binding Protein 3, Mitochondrial","τm5U,τm5s2U",writer,tRNA,"cytosol,mitochondrion",,,"MODOMICS,Delaunay,S.2024",Homo sapiens
+HSD17B10,Hydroxysteroid 17-Beta Dehydrogenase 10,"m1G,m1A",writer,tRNA,mitochondrion,HSD17B10/MRPP2 acting as a non-catalytic subunit,MRPP1-MRPP2 subcomplex,MODOMICS,Homo sapiens
+LAGE3,L Antigen Family Member 3,t(6)A,writer,tRNA,nucleus,,EKC/KEOPS complex,MODOMICS,Homo sapiens
+LARP7,"La Ribonucleoprotein 7, Transcriptional Regulator",2′-O-Me,writer,snRNA,"cytosol,nucleus",,,MODOMICS,Homo sapiens
+MEPCE,Methylphosphate Capping Enzyme,Cap,writer,snRNA,nucleus,methylphosphate cap at the 5'-end of 7SK snRNA,,MODOMICS,Homo sapiens
+METTL1,tRNA (guanine-N(7)-)-methyltransferase,m7G,writer,"tRNA,mRNA,miRNA","cytosol,nucleus",,METTL1-WDR4 methyltransferase complex,"MODOMICS,RNAME,Delaunay,S.2024",Homo sapiens
+METTL14,N6-adenosine-methyltransferase non-catalytic subunit,m6A,writer,"mRNA,miRNA",nucleus,,METTL3-METTL14 heterodimer,"MODOMICS,RNAME,Delaunay,S.2024",Homo sapiens
+METTL16,RNA N6-adenosine-methyltransferase METTL16,m6A,writer,"mRNA,snRNA",nucleus,,,"MODOMICS,RNAME",Homo sapiens
+METTL2A,"Methyltransferase 2A, TRNA N3-Cytidine",m3C,writer,tRNA,cytosol,,,MODOMICS,Homo sapiens
+METTL2B,"Methyltransferase 2B, TRNA N3-Cytidine",m3C,writer,tRNA,cytosol,,,MODOMICS,Homo sapiens
+METTL3,N6-adenosine-methyltransferase catalytic subunit,m6A,writer,"mRNA,miRNA","cytosol,nucleus",,METTL3-METTL14 heterodimer,"MODOMICS,RNAME,Delaunay,S.2024",Homo sapiens
+METTL5,rRNA N6-adenosine-methyltransferase METTL5,m6A,writer,rRNA,"cytosol,nucleus",,,"MODOMICS,RNAME",Homo sapiens
+METTL8,"Methyltransferase 8, TRNA N3-Cytidine",m3C,writer,tRNA,mitochondrion,,,MODOMICS,Homo sapiens
+MOCS3,Molybdenum Cofactor Synthesis 3,mcm(5)S(2)U,writer,tRNA,cytosol,,,MODOMICS,Homo sapiens
+MRM1,Mitochondrial RRNA Methyltransferase 1,2′-O-Me,writer,rRNA,mitochondrion,,,MODOMICS,Homo sapiens
+MRM2,Mitochondrial RRNA Methyltransferase 2,2′-O-Me,writer,rRNA,"nucleus,mitochondrion",,,MODOMICS,Homo sapiens
+MRM3,Mitochondrial RRNA Methyltransferase 3,2′-O-Me,writer,rRNA,mitochondrion,,,MODOMICS,Homo sapiens
+MTO1,Mitochondrial TRNA Translation Optimization 1,"τm5U,τm5s2U",writer,tRNA,"cytosol,mitochondrion",,,"Delaunay,S.2024",Homo sapiens
+NAT10,N-Acetyltransferase 10,ac4C,writer,"mRNA,rRNA,tRNA",nucleus,,,"MODOMICS,Delaunay,S.2024",Homo sapiens
+NFS1,NFS1 Cysteine Desulfurase,mcm5s2U,writer,tRNA,"cytosol,nucleus,mitochondrion",Acts as a sulfur donor for MOCS3,,MODOMICS,Homo sapiens
+NHP2,NHP2 Ribonucleoprotein,Ψ,writer,rRNA,nucleus,,H/ACA small nucleolar ribonucleoprotein (H/ACA snoRNP) complex,"MODOMICS,Delaunay,S.2024",Homo sapiens
+NOP10,NOP10 Ribonucleoprotein,Ψ,writer,rRNA,nucleus,,H/ACA small nucleolar ribonucleoprotein (H/ACA snoRNP) complex,"Delaunay,S.2024",Homo sapiens
+NOP2,Probable 28S rRNA (cytosine(4447)-C(5))-methyltransferase,m5C,writer,rRNA,nucleus,,,"MODOMICS,RNAME",Homo sapiens
+NOP56,NOP56 Ribonucleoprotein,2′-O-Me,writer,"rRNA,mRNA",nucleus,,box C/D small nucleolar ribonucleoprotein (snoRNP) complexes,MODOMICS,Homo sapiens
+NOP58,NOP58 Ribonucleoprotein,2′-O-Me,writer,"rRNA,mRNA","cytosol,nucleus",,box C/D small nucleolar ribonucleoprotein (snoRNP) complexes,MODOMICS,Homo sapiens
+NSUN2,RNA cytosine C(5)-methyltransferase NSUN2,m5C,writer,"tRNA,mRNA","nucleus,mitochondrion",,,"MODOMICS,RNAME,Delaunay,S.2024",Homo sapiens
+NSUN3,"tRNA (cytosine(34)-C(5))-methyltransferase, mitochondrial",m5C,writer,tRNA,mitochondrion,,,"MODOMICS,RNAME,Delaunay,S.2024",Homo sapiens
+NSUN4,5-methylcytosine rRNA methyltransferase NSUN4,m5C,writer,"mRNA,rRNA",mitochondrion,,,"MODOMICS,RNAME",Homo sapiens
+NSUN5,28S rRNA (cytosine-C(5))-methyltransferase,m5C,writer,rRNA,nucleus,,,"MODOMICS,RNAME,Delaunay,S.2024",Homo sapiens
+NSUN6,tRNA (cytosine(72)-C(5))-methyltransferase NSUN6,m5C,writer,tRNA,cytosol,,,"MODOMICS,RNAME,Delaunay,S.2024",Homo sapiens
+NUDT12,Nudix Hydrolase 12,Cap,eraser,mRNA,"nucleus,peroxisome",nicotinamide adenine dinucleotide (NAD) cap,,MODOMICS,Homo sapiens
+NUDT16,Nudix Hydrolase 16,Cap,eraser,"mRNA,snoRNA",nucleus,nicotinamide adenine dinucleotide (NAD) cap,,MODOMICS,Homo sapiens
+NUDT3,Nudix Hydrolase 3,Cap,eraser,mRNA,"cytosol,nucleus",nicotinamide adenine dinucleotide (NAD) cap,,MODOMICS,Homo sapiens
+OSGEP,O-Sialoglycoprotein Endopeptidase,t(6)A,writer,tRNA,"cytosol,nucleus",,EKC/KEOPS complex,MODOMICS,Homo sapiens
+PCIF1,Phosphorylated CTD Interacting Factor 1,m6Am,writer,mRNA,nucleus,,,"MODOMICS,Delaunay,S.2024",Homo sapiens
+PUS1,tRNA pseudouridine synthase A,Ψ,writer,"tRNA,mRNA","nucleus,mitochondrion",,,"MODOMICS,RNAME,Delaunay,S.2024",Homo sapiens
+PUS10,tRNA pseudouridine synthase Pus10,Ψ,writer,tRNA,"nucleus,mitochondrion",,,"MODOMICS,RNAME,Delaunay,S.2024",Homo sapiens
+PUS3,tRNA pseudouridine(38/39) synthase,Ψ,writer,tRNA,"cytosol,nucleus",,,"MODOMICS,RNAME,Delaunay,S.2024",Homo sapiens
+PUS7,Pseudouridylate synthase 7 homolog,Ψ,writer,"tRNA,mRNA,snRNA",nucleus,,,"MODOMICS,RNAME,Delaunay,S.2024",Homo sapiens
+PUS7L,Pseudouridylate synthase 7 homolog-like protein,Ψ,writer,mRNA,nucleus,,,"MODOMICS,RNAME,Delaunay,S.2024",Homo sapiens
+QTRT1,Queuine TRNA-Ribosyltransferase Catalytic Subunit 1,Q,writer,tRNA,"nucleus,mitochondrion",,,"MODOMICS,Delaunay,S.2024",Homo sapiens
+QTRT2,Queuine TRNA-Ribosyltransferase Accessory Subunit 2,Q,writer,tRNA,mitochondrion,,,"MODOMICS,Delaunay,S.2024",Homo sapiens
+RBM15,RNA-binding protein 15,m6A,writer,mRNA,nucleus,,WMM complex,"RNAME,Delaunay,S.2024",Homo sapiens
+RBM15B,Putative RNA-binding protein 15B,m6A,writer,mRNA,nucleus,,WMM complex,"RNAME,Delaunay,S.2024",Homo sapiens
+RNGTT,RNA Guanylyltransferase And 5''-Phosphatase,Cap,writer,mRNA,nucleus,m⁷G cap,,MODOMICS,Homo sapiens
+RNMT,mRNA cap guanine-N7 methyltransferase,m7G,writer,mRNA,nucleus,,,"MODOMICS,Delaunay,S.2024",Homo sapiens
+RPUSD1,RNA pseudouridylate synthase domain-containing protein 1,Ψ,writer,rRNA,"cytosol,nucleus",,,"MODOMICS,RNAME",Homo sapiens
+RPUSD2,RNA pseudouridylate synthase domain-containing protein 2,Ψ,writer,mRNA,nucleus,,,"MODOMICS,RNAME",Homo sapiens
+RPUSD3,Mitochondrial mRNA pseudouridine synthase RPUSD3,Ψ,writer,mRNA,mitochondrion,,,"MODOMICS,RNAME",Homo sapiens
+RPUSD4,Mitochondrial RNA pseudouridine synthase RPUSD4,Ψ,writer,"tRNA,rRNA,mRNA",mitochondrion,,,"MODOMICS,RNAME",Homo sapiens
+SNU13,Small Nuclear Ribonucleoprotein 13,2′-O-Me,writer,"rRNA,mRNA",nucleus,,box C/D small nucleolar ribonucleoprotein (snoRNP) complexes,MODOMICS,Homo sapiens
+TFB1M,"Dimethyladenosine Transferase 1, Mitochondrial",m⁶₂A,writer,rRNA,mitochondrion,,,"MODOMICS,Delaunay,S.2024",Homo sapiens
+TGS1,Trimethylguanosine Synthase 1,m7G,writer,snRNA,"cytosol,nucleus",,,MODOMICS,Homo sapiens
+THUMPD1,THUMP Domain 1 NAT10 Acetyltransferase Adaptor,ac4C,writer,tRNA,nucleus,,,MODOMICS,Homo sapiens
+THUMPD2,THUMP Domain 2 TRNA And SnRNA Guanosine Methyltransferase,m2G,writer,snRNA,nucleus,,THUMPD2-TRM112 methyltransferase complex,MODOMICS,Homo sapiens
+THUMPD3,THUMP Domain 3 TRNA Guanosine Methyltransferase,m2G,writer,tRNA,"cytosol,nucleus",,,MODOMICS,Homo sapiens
+TP53RK,TP53 Regulating Kinase,t(6)A,writer,tRNA,"cytosol,nucleus",,EKC/KEOPS complex,MODOMICS,Homo sapiens
+TPRKB,TP53RK Binding Protein,t(6)A,writer,tRNA,"cytosol,nucleus",,,MODOMICS,Homo sapiens
+TRDMT1,tRNA (cytosine(38)-C(5))-methyltransferase,m5C,writer,tRNA,nucleus,,,"MODOMICS,RNAME",Homo sapiens
+TRIT1,TRNA Isopentenyltransferase 1,i6A,writer,tRNA,"nucleus,mitochondrion",,,MODOMICS,Homo sapiens
+TRMO,TRNA Methyltransferase O,m6t6A,writer,tRNA,nucleus,,,MODOMICS,Homo sapiens
+TRMT1,TRNA Methyltransferase 1 ,"m2,2G",writer,tRNA,"nucleus,mitochondrion",,,"MODOMICS,Delaunay,S.2024",Homo sapiens
+TRMT10C,tRNA methyltransferase 10 homolog C,"m1A,m1G",writer,"tRNA,mRNA","nucleus,mitochondrion",,,"MODOMICS,RNAME",Homo sapiens
+TRMT11,TRNA Methyltransferase 11,m2G,writer,tRNA,mitochondrion,,,MODOMICS,Homo sapiens
+TRMT13,TRNA Methyltransferase 13,2′-O-Me,writer,tRNA,nucleus,,,MODOMICS,Homo sapiens
+TRMT2A,TRNA Methyltransferase 2 Homolog A,m5U,writer,"tRNA,mRNA",cytosol,,,MODOMICS,Homo sapiens
+TRMT2B,TRNA Methyltransferase 2B,m5U,writer,"tRNA,rRNA",mitochondrion,,,MODOMICS,Homo sapiens
+TRMT5,TRNA Methyltransferase 5,m1G,writer,tRNA,"nucleus,mitochondrion",,,"MODOMICS,Delaunay,S.2024",Homo sapiens
+TRMT6,tRNA (adenine(58)-N(1))-methyltransferase non-catalytic subunit TRM6,m1A,writer,tRNA,nucleus,,,"MODOMICS,RNAME,Delaunay,S.2024",Homo sapiens
+TRMT61A,tRNA (adenine(58)-N(1))-methyltransferase catalytic subunit TRMT61A,m1A,writer,"tRNA,mRNA",nucleus,,,"MODOMICS,RNAME,Delaunay,S.2024",Homo sapiens
+TRMT61B,"tRNA (adenine(58)-N(1))-methyltransferase, mitochondrial",m1A,writer,"tRNA,rRNA,mRNA",mitochondrion,,,"MODOMICS,RNAME",Homo sapiens
+TRMU,TRNA Mitochondrial 2-Thiouridylase,"τm5U,τm5s2U",writer,tRNA,mitochondrion,,,"MODOMICS,Delaunay,S.2024",Homo sapiens
+TRUB1,TruB Pseudouridine Synthase Family Member 1,Ψ,writer,"mRNA,tRNA","cytosol,nucleus",,,MODOMICS,Homo sapiens
+TRUB2,TruB Pseudouridine Synthase Family Member 2,Ψ,writer,mRNA,mitochondrion,,,MODOMICS,Homo sapiens
+TYW2,TRNA Wybutosine-Synthesizing Protein 2,yW,writer,tRNA,"cytosol,nucleus",,,"MODOMICS,Delaunay,S.2024",Homo sapiens
+TYW5,TRNA Wybutosine-Synthesizing Protein 5,yW,writer,tRNA,cytosol,,,MODOMICS,Homo sapiens
+URM1,Ubiquitin Related Modifier 1,mcm5s2U,writer,tRNA,"cytosol,nucleus",Serves as sulfur donor in tRNA 2-thiolation reaction by being thiocarboxylated (-COSH) at its C-terminus by MOCS3.,,MODOMICS,Homo sapiens
+VIRMA,Protein virilizer homolog,m6A,writer,mRNA,"cytosol,nucleus",,,"MODOMICS,RNAME,Delaunay,S.2024",Homo sapiens
+WDR4,WDR4 TRNA N7-Guanosine Methyltransferase Non-Catalytic Subunit,m7G,writer,"tRNA,mRNA,miRNA","cytosol,nucleus",,,"MODOMICS,Delaunay,S.2024",Homo sapiens
+WTAP,Pre-mRNA-splicing regulator WTAP,m6A,writer,mRNA,nucleus,,WMM complex,"MODOMICS,RNAME,Delaunay,S.2024",Homo sapiens
+ZC3H13,Zinc finger CCCH domain-containing protein 13,m6A,writer,mRNA,nucleus,,WMM complex,"RNAME,Delaunay,S.2024",Homo sapiens
+ZCCHC4,rRNA N6-adenosine-methyltransferase ZCCHC4,m6A,writer,rRNA,nucleus,,,"MODOMICS,RNAME",Homo sapiens
