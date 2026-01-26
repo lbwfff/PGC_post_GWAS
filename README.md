@@ -4,7 +4,7 @@ This Repositories was used to include codes used in the project “Functional Ge
 
 Most of the code in this project is implemented using published software and existing R packages (including those from CRAN and Bioconductor).
 
-## [Data sources](./Data_sources/): 
+## [Data sources](./Data_source/): 
 Includes the RMP list and the sources of GWAS summary statistics utilized in this study.
 
 ## STEP 0 Pre-processing of data 
