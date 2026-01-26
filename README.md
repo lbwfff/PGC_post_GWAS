@@ -2,7 +2,7 @@
 
 This Repositories was used to include codes used in the project “Functional Genomic Analyses Reveal transfer RNA Modification Enzymes as Risk Genes for Bipolar I Disorder and Schizophrenia” (https://www.biorxiv.org/content/XXX).
 
-Most of the code in this project is implemented by existing R packages (including Cran and bioconductor)
+Most of the code in this project is implemented using published software and existing R packages (including those from CRAN and Bioconductor).
 
 ## STEP 0 Pre-processing of data 
 The script [s0_data_prep.R](./s0_data_prep.R) is used for data preprocessing, we reformatted the NONCODE annotations to make them compatible as input for the Ribo-seq analysis tool and removed redundancies with the GENCODE annotations using the GffCompare tool.
