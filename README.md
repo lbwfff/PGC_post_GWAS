@@ -29,5 +29,5 @@ The heritability estimation is implemented by [GCTB_sbayes.sh](GCTB_sbayes.sh), 
 TwoSample-MR and gene colocalization analysis are based on the customized code [MR_and_coloc.R](MR_and_coloc.R), which primarily implements functionality by calling the [TwoSampleMR](https://github.com/MRCIEU/TwoSampleMR) and [coloc](https://github.com/chr1swallace/coloc) packages. [TSMR_and_coloc.R](TSMR_and_coloc.R) applies this customized code to the project.
 
 ## RNA-seq
-[BrainSeq_SCZ.r](./BrainSeq_SCZ.r) and [BrainSeq_BP.r](./BrainSeq_BP.r) analyzed RNA-seq data from schizophrenia and bipolar disorder samples in the [BrainSeq](/https://eqtl.brainseq.org/phase2/) database, respectively.
+[BrainSeq_SCZ.r](./BrainSeq_SCZ.r) and [BrainSeq_BP.r](./BrainSeq_BP.r) analyzed RNA-seq data from schizophrenia and bipolar disorder samples in the [BrainSeq](https://eqtl.brainseq.org/phase2/) database, respectively.
 
