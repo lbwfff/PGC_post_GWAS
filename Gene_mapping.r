@@ -73,8 +73,6 @@ for (i in list){
 
 allrmr<-as.data.frame(gene_span)
 
-#结论其实没怎么变，能够看到信号的还就是BIPI和SCZ
-
 ####
 #for SCZ
 i<-list[15]
