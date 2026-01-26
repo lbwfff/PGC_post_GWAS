@@ -19,3 +19,15 @@ MAGMA and hMAGMA analyses were performed using [MAGMA.sh](./MAGMA.sh) and [hMAGM
 ## Gene-based analysis
 The heritability estimation is implemented by [GCTB_sbayes.sh](GCTB_sbayes.sh), while [sbayes.R](sbayes.R) performs the aggregation and visualization of SNP-level estimates.
 
+## SMR
+SMR analysis estimates are implemented by [SMR.sh](./SMR.sh), with visualization performed by [SMR.r](./SMR.r).
+
+## FUSION
+FUSION analysis estimates are implemented by [FUSION.sh](./FUSION.sh), with visualization performed by [FUSION.r](./FUSION.r).
+
+## TSMR & coloc
+TwoSample-MR and gene colocalization analysis are based on the customized code [MR_and_coloc.R](MR_and_coloc.R), which primarily implements functionality by calling the TwoSampleMR and coloc packages. [TSMR_and_coloc.R](TSMR_and_coloc.R) applies this customized code to the project.
+
+## RNA-seq
+[BrainSeq_SCZ.r](./BrainSeq_SCZ.r) and [BrainSeq_BP.r](./BrainSeq_BP.r) analyzed RNA-seq data from schizophrenia and bipolar disorder samples in the BrainSeq database, respectively.
+
