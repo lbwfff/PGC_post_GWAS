@@ -1,6 +1,6 @@
 # Functional Genomic Analyses Reveal transfer RNA Modification Enzymes as Risk Genes for Bipolar I Disorder and Schizophrenia
 
-This Repositories was used to include codes used in the project “Functional Genomic Analyses Reveal transfer RNA Modification Enzymes as Risk Genes for Bipolar I Disorder and Schizophrenia” (https://www.biorxiv.org/content/XXX).
+This Repositories was used to include codes used in the project [“Functional Genomic Analyses Reveal transfer RNA Modification Enzymes as Risk Genes for Bipolar I Disorder and Schizophrenia”](https://www.medrxiv.org/content/10.64898/2026.01.26.26344826v1) .
 
 Most of the code in this project is implemented using published software and existing R packages (including those from CRAN and Bioconductor).
 
